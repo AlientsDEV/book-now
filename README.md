@@ -1,4 +1,4 @@
-# animation_blur
+# Book Now
 
 A new Flutter application.
 
