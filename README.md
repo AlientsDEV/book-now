@@ -2,7 +2,7 @@
 
 A new Flutter application with a nice animation to let the user interact with the app during the booking.
 
-### Screenshot
+## Screenshot
 
 This project is a starting point for a Flutter application.
 
