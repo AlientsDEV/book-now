@@ -4,13 +4,9 @@ A new Flutter application with a nice animation to let the user interact with th
 
 ## Screenshot
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/56515652/66748193-dc444200-ee86-11e9-938d-dc9f9bc4aeb7.png" 
+       width=250 hspace="20"/> 
+  <img src="https://user-images.githubusercontent.com/56515652/66748316-2c230900-ee87-11e9-8ac0-4a11d67b340f.png"
+       width=250 hspace="20"/>
+</p>
